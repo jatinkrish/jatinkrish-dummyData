@@ -1,15 +1,54 @@
 {
-  "posts": [
+  "menuItems": [
     {
-      "id": 1313,
-      "title": "damac"
+      "title": "Home",
+      "link": "/"
     },
-      {
-      "id": 3,
-      "title": "fajfa"
+    {
+      "title": "Products",
+      "link": "/products",
+      "subMenu": [
+        {
+          "title": "Electronics",
+          "link": "/products/electronics",
+          "subMenu": [
+            {
+              "title": "Smartphones",
+              "link": "/products/electronics/smartphones"
+            },
+            {
+              "title": "Laptops",
+              "link": "/products/electronics/laptops"
+            }
+          ]
+        },
+        {
+          "title": "Clothing",
+          "link": "/products/clothing",
+          "subMenu": [
+            {
+              "title": "Men's Clothing",
+              "link": "/products/clothing/mens"
+            },
+            {
+              "title": "Women's Clothing",
+              "link": "/products/clothing/womens"
+            }
+          ]
+        },
+        {
+          "title": "Beauty",
+          "link": "/products/beauty"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "link": "/about-us"
+    },
+    {
+      "title": "Contact Us",
+      "link": "/contact-us"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
