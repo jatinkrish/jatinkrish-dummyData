@@ -1,1 +1,301 @@
-{"menu":[{"id":1,"name":"Cases","items":[{"id":1,"name":"iPhone Cases","items":[{"id":1,"name":"iPhone 12 Cases","url":"/cases/iphone-12-cases"},{"id":2,"name":"iPhone 11 Cases","url":"/cases/iphone-11-cases"},{"id":3,"name":"iPhone X Cases","url":"/cases/iphone-x-cases"}]},{"id":2,"name":"Samsung Cases","items":[{"id":4,"name":"Galaxy S21 Cases","url":"/cases/galaxy-s21-cases"},{"id":5,"name":"Galaxy S20 Cases","url":"/cases/galaxy-s20-cases"},{"id":6,"name":"Galaxy Note 20 Cases","url":"/cases/galaxy-note-20-cases"}]}]},{"id":2,"name":"Accessories","items":[{"id":7,"name":"Chargers","url":"/accessories/chargers"},{"id":8,"name":"Screen Protectors","url":"/accessories/screen-protectors"},{"id":9,"name":"Cables","url":"/accessories/cables"}]}],"homePage":[{"title":"main_banner_slider","type":"slider","data":[{"id":1,"image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262019/HomePage/homepage_slider_banner01_fnksjl.png","caption":"Origami Snap Case","link":"mobile/case/snap"},{"id":2,"image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262020/HomePage/homepage_slider_banner02_mbnyjr.png","caption":"Leather Case","link":"mobile/case/leather"}]},{"title":"limited_time_offer","type":"banner","data":[{"id":1,"product_image":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/LTO_img_01_l9zx4v.png","caption":"upto 20% off","link":"https://example.com/product_4"},{"id":2,"product_image":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/What_we_have_img_02_maozzt.png","caption":"flat 50% off","link":"https://example.com/product_5"},{"id":3,"product_image":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/LTO_img_03_jnlsbb.png","caption":"upto 10% off","link":"https://example.com/product_5"}]},{"title":"products_we_love","type":"banner","data":[{"id":1,"product_id":"123","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_01_buclyw.png","name":"Product 1","price":"$19.99","rating":5,"link":"https://example.com/product_1"},{"id":2,"product_id":"456","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_02_dnljra.png","name":"Product 2","price":"$24.99","rating":5,"link":"https://example.com/product_2"},{"id":3,"product_id":"789","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_03_jvohto.png","name":"Product 3","price":"$29.99","rating":5,"link":"https://example.com/product_3"},{"id":4,"product_id":"789","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/PWL_img_04_u2gmk4.png","name":"Product 4","price":"$29.99","rating":5,"link":"https://example.com/product_3"},{"id":5,"product_id":"789","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_05_wm5k6v.png","name":"Product 5","price":"$29.99","rating":5,"link":"https://example.com/product_3"}]},{"title":"static_block_apis1","type":"banner","data":[{"id":1,"title":"About Us","content":"We are a leading ecommerce store offering a wide range of products at affordable prices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt arcu non mauris efficitur euismod. Praesent at tincidunt nisl.","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/Promo_Banner_01_mmwyvz.png"},{"id":2,"title":"FAQs","content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt arcu non mauris efficitur euismod. Praesent at tincidunt nisl. Donec ullamcorper velit eget risus rhoncus, in iaculis velit tincidunt. Donec blandit, mauris vel consequat tincidunt, ante sapien vestibulum nulla, eu bibendum sapien est in nulla.","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/Promo_Banner_02_l5w1w3.png"}]},{"title":"top_selling_products","type":"banner","data":[{"id":1,"product_id":"789","image_url":"https://example.com/product_3.jpg","name":"Product 3","price":"$29.99","link":"https://example.com/product_3"},{"id":2,"product_id":"123","image_url":"https://example.com/product_1.jpg","name":"Product 1","price":"$19.99","link":"https://example.com/product_1"},{"id":3,"product_id":"456","image_url":"https://example.com/product_2.jpg","name":"Product 2","price":"$24.99"}]},{"title":"what_we_have_instore_for_you","type":"banner","data":[{"id":1,"image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/What_we_have_img_01_aq9seg.png","title":"origami snap case"},{"id":2,"image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/What_we_have_img_02_maozzt.png","title":"wallet case"},{"id":3,"image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/What_we_have_img_01_aq9seg.png","title":"origami snap case"},{"id":4,"image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/What_we_have_img_04_nqrfjq.png","title":"Folio case"}]},{"title":"static_block_apis2","type":"banner","data":[{"id":1,"title":"About Us","content":"smash test","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262022/HomePage/SMASH_TEST_banner_mm0z88.png"},{"id":2,"title":"FAQs","content":"Protective Ipad Cases Designed for Education","image_url":"https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/Protective_Ipad_banner_ua5lil.png"}]}],"cart":[{"id":1,"lineItems":[{"id":1,"productId":11,"name":"jeans Michael Kors dark blue","price":22375,"quantity":1},{"id":2,"productId":22,"name":"jeans","price":22375,"quantity":1}],"cartState":"Active"},{"id":2,"lineItems":[{"id":1,"productId":11,"name":"jeans Michael Kors dark blue","price":22375,"quantity":1},{"id":2,"productId":22,"name":"jeans","price":22375,"quantity":1}],"cartState":"Active"}]}
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Cases",
+      "items": [
+        {
+          "id": 1,
+          "name": "iPhone Cases",
+          "items": [
+            {
+              "id": 1,
+              "name": "iPhone 12 Cases",
+              "url": "/cases/iphone-12-cases"
+            },
+            {
+              "id": 2,
+              "name": "iPhone 11 Cases",
+              "url": "/cases/iphone-11-cases"
+            },
+            {
+              "id": 3,
+              "name": "iPhone X Cases",
+              "url": "/cases/iphone-x-cases"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Samsung Cases",
+          "items": [
+            {
+              "id": 4,
+              "name": "Galaxy S21 Cases",
+              "url": "/cases/galaxy-s21-cases"
+            },
+            {
+              "id": 5,
+              "name": "Galaxy S20 Cases",
+              "url": "/cases/galaxy-s20-cases"
+            },
+            {
+              "id": 6,
+              "name": "Galaxy Note 20 Cases",
+              "url": "/cases/galaxy-note-20-cases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Accessories",
+      "items": [
+        {
+          "id": 7,
+          "name": "Chargers",
+          "url": "/accessories/chargers"
+        },
+        {
+          "id": 8,
+          "name": "Screen Protectors",
+          "url": "/accessories/screen-protectors"
+        },
+        {
+          "id": 9,
+          "name": "Cables",
+          "url": "/accessories/cables"
+        }
+      ]
+    }
+  ],
+  "homePage": [
+    {
+      "title": "main_banner_slider",
+      "type": "slider",
+      "data": [
+        {
+          "id": 1,
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262019/HomePage/homepage_slider_banner01_fnksjl.png",
+          "caption": "Origami Snap Case",
+          "link": "mobile/case/snap"
+        },
+        {
+          "id": 2,
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262020/HomePage/homepage_slider_banner02_mbnyjr.png",
+          "caption": "Leather Case",
+          "link": "mobile/case/leather"
+        }
+      ]
+    },
+    {
+      "title": "limited_time_offer",
+      "type": "banner",
+      "data": [
+        {
+          "id": 1,
+          "product_image": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/LTO_img_01_l9zx4v.png",
+          "caption": "upto 20% off",
+          "link": "https://example.com/product_4"
+        },
+        {
+          "id": 2,
+          "product_image": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/What_we_have_img_02_maozzt.png",
+          "caption": "flat 50% off",
+          "link": "https://example.com/product_5"
+        },
+        {
+          "id": 3,
+          "product_image": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/LTO_img_03_jnlsbb.png",
+          "caption": "upto 10% off",
+          "link": "https://example.com/product_5"
+        }
+      ]
+    },
+    {
+      "title": "products_we_love",
+      "type": "banner",
+      "data": [
+        {
+          "id": 1,
+          "product_id": "123",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_01_buclyw.png",
+          "name": "Product 1",
+          "price": "$19.99",
+          "rating": 5,
+          "link": "https://example.com/product_1"
+        },
+        {
+          "id": 2,
+          "product_id": "456",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_02_dnljra.png",
+          "name": "Product 2",
+          "price": "$24.99",
+          "rating": 5,
+          "link": "https://example.com/product_2"
+        },
+        {
+          "id": 3,
+          "product_id": "789",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_03_jvohto.png",
+          "name": "Product 3",
+          "price": "$29.99",
+          "rating": 5,
+          "link": "https://example.com/product_3"
+        },
+        {
+          "id": 4,
+          "product_id": "789",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/PWL_img_04_u2gmk4.png",
+          "name": "Product 4",
+          "price": "$29.99",
+          "rating": 5,
+          "link": "https://example.com/product_3"
+        },
+        {
+          "id": 5,
+          "product_id": "789",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262025/HomePage/PWL_img_05_wm5k6v.png",
+          "name": "Product 5",
+          "price": "$29.99",
+          "rating": 5,
+          "link": "https://example.com/product_3"
+        }
+      ]
+    },
+    {
+      "title": "static_block_apis1",
+      "type": "banner",
+      "data": [
+        {
+          "id": 1,
+          "title": "About Us",
+          "content": "We are a leading ecommerce store offering a wide range of products at affordable prices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt arcu non mauris efficitur euismod. Praesent at tincidunt nisl.",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/Promo_Banner_01_mmwyvz.png"
+        },
+        {
+          "id": 2,
+          "title": "FAQs",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt arcu non mauris efficitur euismod. Praesent at tincidunt nisl. Donec ullamcorper velit eget risus rhoncus, in iaculis velit tincidunt. Donec blandit, mauris vel consequat tincidunt, ante sapien vestibulum nulla, eu bibendum sapien est in nulla.",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/Promo_Banner_02_l5w1w3.png"
+        }
+      ]
+    },
+    {
+      "title": "top_selling_products",
+      "type": "banner",
+      "data": [
+        {
+          "id": 1,
+          "product_id": "789",
+          "image_url": "https://example.com/product_3.jpg",
+          "name": "Product 3",
+          "price": "$29.99",
+          "link": "https://example.com/product_3"
+        },
+        {
+          "id": 2,
+          "product_id": "123",
+          "image_url": "https://example.com/product_1.jpg",
+          "name": "Product 1",
+          "price": "$19.99",
+          "link": "https://example.com/product_1"
+        },
+        {
+          "id": 3,
+          "product_id": "456",
+          "image_url": "https://example.com/product_2.jpg",
+          "name": "Product 2",
+          "price": "$24.99"
+        }
+      ]
+    },
+    {
+      "title": "what_we_have_instore_for_you",
+      "type": "banner",
+      "data": [
+        {
+          "id": 1,
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/What_we_have_img_01_aq9seg.png",
+          "title": "origami snap case"
+        },
+        {
+          "id": 2,
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262024/HomePage/What_we_have_img_02_maozzt.png",
+          "title": "wallet case"
+        },
+        {
+          "id": 3,
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/What_we_have_img_01_aq9seg.png",
+          "title": "origami snap case"
+        },
+        {
+          "id": 4,
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/What_we_have_img_04_nqrfjq.png",
+          "title": "Folio case"
+        }
+      ]
+    },
+    {
+      "title": "static_block_apis2",
+      "type": "banner",
+      "data": [
+        {
+          "id": 1,
+          "title": "About Us",
+          "content": "smash test",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262022/HomePage/SMASH_TEST_banner_mm0z88.png"
+        },
+        {
+          "id": 2,
+          "title": "FAQs",
+          "content": "Protective Ipad Cases Designed for Education",
+          "image_url": "https://res.cloudinary.com/dufmhl8az/image/upload/v1680262023/HomePage/Protective_Ipad_banner_ua5lil.png"
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "lineItems": [
+        {
+          "id": 1,
+          "productId": 11,
+          "name": "jeans Michael Kors dark blue",
+          "price": 22375,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "productId": 22,
+          "name": "jeans",
+          "price": 22375,
+          "quantity": 1
+        }
+      ],
+      "cartState": "Active"
+    },
+    {
+      "id": 2,
+      "lineItems": [
+        {
+          "id": 1,
+          "productId": 11,
+          "name": "jeans Michael Kors dark blue",
+          "price": 22375,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "productId": 22,
+          "name": "jeans",
+          "price": 22375,
+          "quantity": 1
+        }
+      ],
+      "cartState": "Active"
+    }
+  ]
+}
